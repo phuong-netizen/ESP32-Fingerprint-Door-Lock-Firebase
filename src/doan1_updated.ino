@@ -83,7 +83,7 @@ void printResetReason() {
 }
 #include "lcd.h"
 #include "control_time.h"
-#include "ADD.h"
+#include "Add.h"
 #include "firebase_sync.h" 
 #include "handle_lcd.h" 
 #include "handle_finger.h"
