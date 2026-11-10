@@ -4,6 +4,7 @@ Extracted without modification from **Báo cáo đồ án 1.docx**, *Thiết k�
 
 | Image | Original report figure |
 | --- | --- |
+| system-overview.png | Figure 3.1 — door lock system block diagram |
 | prototype-front.png | Figure 4.1 — hardware prototype |
 | prototype-rear.png | Figure 4.3 — rear assembly |
 | dashboard-users.png | Figure 4.12 — dashboard |

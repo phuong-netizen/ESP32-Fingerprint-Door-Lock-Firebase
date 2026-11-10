@@ -58,13 +58,9 @@ All photographs and screenshots are extracted from the project report. [Figure r
 
 **Software:** C++ / Arduino firmware, HTML/CSS/JavaScript dashboard and Firebase Realtime Database via HTTP REST.
 
-```text
-Fingerprint / Keypad → ESP32 + RTC → Relay → Door lock
-                          │
-                       Wi-Fi / REST
-                          ↓
-                 Firebase → Web dashboard
-```
+![System block diagram from the project report showing the power supply, keypad, fingerprint sensor, controller, display, lock actuator, RTC and database](docs/images/system-overview.png)
+
+*System overview — Figure 3.1 from the project report.*
 
 Firmware status updates run every 10 seconds; the dashboard polls approximately every 5 seconds.
 
